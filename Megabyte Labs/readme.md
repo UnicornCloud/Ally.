@@ -1,5 +1,7 @@
 # Megabyte Labs
-source: https://gitlab.com/megabyte-labs
+Home: https://megabyte.space/
+
+source: (https://github.com/megabyte-labs, https://gitlab.com/megabyte-labs)
 
 project:
 - https://gitlab.com/megabyte-labs/cloud
